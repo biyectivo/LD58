@@ -1,0 +1,4 @@
+#macro	SPRITEMAN_VERBOSE							false
+#macro	SPRITEMAN_DEFAULT_DELAY						10
+#macro	SPRITEMAN_TIME_SOURCE_DEFAULT_PARENT		time_source_game
+#macro	SPRITEMAN_TIME_SOURCE_DEFAULT_DELAY_TYPE	time_source_units_frames

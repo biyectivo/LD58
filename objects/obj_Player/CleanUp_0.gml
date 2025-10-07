@@ -1,0 +1,2 @@
+if (part_type_exists(obj_Player.part_player_death)) part_type_destroy(obj_Player.part_player_death);
+if (part_emitter_exists(Game.ps, obj_Player.pe_player)) part_emitter_destroy(Game.ps, obj_Player.pe_player);

@@ -1,0 +1,19 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"curve_Fast_Slow",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"curve1","colour":4290799884,"name":"curve1","points":[
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":-0.14241423,"th1":0.06904048,"tv0":-0.1267999,"tv1":0.061470866,"x":0.8,"y":0.9,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":2,
+  "name":"curve_Fast_Slow",
+  "parent":{
+    "name":"Curves",
+    "path":"folders/# Extensions/Animatron/Curves.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

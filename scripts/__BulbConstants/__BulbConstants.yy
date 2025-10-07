@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__BulbConstants",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__BulbConstants",
+  "parent":{
+    "name":"Bulb",
+    "path":"folders/# Extensions/Bulb.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

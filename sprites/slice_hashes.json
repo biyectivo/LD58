@@ -1,0 +1,18 @@
+{
+  "spr_Dasher":"4e6b0543ed508c92831a55451a2f9fa830950f0a793d7e63818441157f00b69f",
+  "spr_Mine#strip#":"8c4c6665d69ad1559f4deb5529bc7f08a55ea809962b44204a3e584cf89e84c7",
+  "Slice 1":"84c8418922c23834bb352cbe148797e5e67da452f62b7207f6780e98637b1520",
+  "spr_Bullet":"617acdd8d7f9e2a9b3d088beefdc159e45d354790436ce740e6aa110c1d18bad",
+  "spr_Dasher#strip#":"70282c2473f7bc0b3c9b8e0d159afebec483e6f31ef003ce2f20de2236c335b5",
+  "spr_Miner":"0cf146c191ebe1ab2895be027a25d48b988085b2c1dee15f880167ba592deef8",
+  "sprtile_Dungeon":"7a527badc9c5597ae43dbfcf0907ab4f710b6e1049df867f22caf9c7048e11cb",
+  "spr_Collectible":"b4834c599bab25724fd0ddfa8aa5a9e2b7e533db3f7c389291ad548f8b759697",
+  "spr_Collectible{Tag1}{Tag2}{Tag3}":"7393df7f1c7f96c895393417718dc49a8b0ca2c20c1c72069f1443149daeeaed",
+  "spr_Player#strip#":"50853b8585d2b4e1fb4960810c2a759c4137abeaf5a4df280d41c3be205b49fa",
+  "spr_Collectible{Tag1}{Tag2}{Tag3}{Tag4}{Tag5}":"48b5651855cd069cccb087372032433aa943e3cf7a10168e157b9778624717be",
+  "spr_Spikes#strip#":"840e1faceddb0ec0d7ff82ad62263438387ccf2dbe8a69280940f33a60ff52cb",
+  "spr_Player":"a4786a3a304d0aaf727f033584f4e858db09393cfcf8c886c023c7e685ac1a1b",
+  "spr_Collectible{Tag1}{Tag2}{Tag3}{Tag4}":"eeefa6a03c0309b8d58c30420efee297755125a24de741fde91e27cb9e905dab",
+  "spr_Shooter":"22a17fb9eb7ab4e5ffd37345a13f4c120e63b8e66600f70ab476f703b47b2b26",
+  "spr_Chaser":"7316ea66959ed8f8e73fb29e92b3d76844fa9852c01906968b433fd2451bf390"
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BulbRenderer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BulbRenderer",
+  "parent":{
+    "name":"Bulb",
+    "path":"folders/# Extensions/Bulb.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

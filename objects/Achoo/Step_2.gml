@@ -1,0 +1,1 @@
+if (self.get_automatic_check()) self.check_all();
